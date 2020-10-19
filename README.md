@@ -10,7 +10,7 @@
 
     - dashboard: ```npm run start```
     - auth: ```npm run start```
-    - profile: ```ng serve --port 4002```
+    - profile: ```ng run start```
     - image-server: ```npm run dev```
     - api: ```npm run dev```
 
